@@ -17,8 +17,7 @@ Works of data analytics and assignments
 • 🌱 I’m currently learning Data craft: Analytics  <br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 📗 I'm currently Learning from BANO QABIL 4.0.<br>
-• 🔥 ACCA, Data Analytics, BI Dashboards, Excel, Data Visualization.<br>
-• 📕 Skills module student.<br>
+• 🔥 Data Analytics, BI Dashboards, Excel, Data Visualization.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
